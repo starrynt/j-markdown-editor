@@ -8,7 +8,7 @@
 <p align="center">正文、源码、脑图自由切换。<br>从随手记录，到长篇创作。</p>
 
 <p align="center">
-  <a href="https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.13/JMarkdownEditor-Setup-windows-x64-native-v0.57.13.exe"><strong>↓ 下载 Windows 版</strong></a>　·　
+  <a href="https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.15/JMarkdownEditor-Setup-windows-x64-native-v0.57.15.exe"><strong>↓ 下载 Windows 版</strong></a>　·　
   <a href="https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.31.2/JMarkdownEditor-android-arm64-v8a-v0.31.2.apk"><strong>↓ 下载 Android 版</strong></a>　·　
   <a href="#下载">所有下载</a>
 </p>
@@ -181,11 +181,11 @@
 
 | 平台 | 版本 | 安装包 |
 | :--- | :--- | :--- |
-| Windows x64 · 安装版 | 0.57.13 | [下载 EXE ↓](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.13/JMarkdownEditor-Setup-windows-x64-native-v0.57.13.exe) |
-| Windows x64 · 便携版 | 0.57.13 | [下载 ZIP ↓](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.13/JMarkdownEditor-windows-x64-native-v0.57.13.zip) |
+| Windows x64 · 安装版 | 0.57.15 | [下载 EXE ↓](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.15/JMarkdownEditor-Setup-windows-x64-native-v0.57.15.exe) |
+| Windows x64 · 便携版 | 0.57.15 | [下载 ZIP ↓](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.15/JMarkdownEditor-windows-x64-native-v0.57.15.zip) |
 | Android 8.0+ · arm64-v8a | 0.31.2 | [下载 APK ↓](https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.31.2/JMarkdownEditor-android-arm64-v8a-v0.31.2.apk) |
 
-[Windows SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.13/SHA256SUMS.txt)　·　[Android SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.31.2/SHA256SUMS.txt)　·　[全部版本与更新说明](https://github.com/starrynt/j-markdown-editor/releases)
+[Windows SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.15/SHA256SUMS.txt)　·　[Android SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.31.2/SHA256SUMS.txt)　·　[全部版本与更新说明](https://github.com/starrynt/j-markdown-editor/releases)
 
 Windows 便携版解压即可使用；安卓在手机浏览器下载后打开 APK，按系统提示允许该浏览器安装应用。
 
@@ -207,7 +207,7 @@ Windows 便携版解压即可使用；安卓在手机浏览器下载后打开 AP
 
 <details><summary>下载时提示“不常下载”怎么办？</summary>
       <p>这是 Edge SmartScreen 的下载信誉提示，不等于已检测出病毒。当前官网安装包和便携包中的程序尚未配置受信任的代码签名，新版本也可能缺少足够的下载信誉。</p>
-      <ol><li>确认从本仓库的 GitHub Releases 下载，并核对下方 <a href="https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.13/SHA256SUMS.txt">SHA-256 校验清单</a>；校验值一致仅说明文件与发布包一致。</li><li>确认来源并决定继续时，可在 Edge 下载列表中打开该项的“…”菜单，选择“保留”；若还有确认页面，再选择“显示更多 → 仍然保留”（名称可能因版本不同）。</li><li>若提示明确检测到病毒或恶意软件，不要按普通信誉提示处理，请记录检测名称并反馈。</li></ol>
+      <ol><li>确认从本仓库的 GitHub Releases 下载，并核对下方 <a href="https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.15/SHA256SUMS.txt">SHA-256 校验清单</a>；校验值一致仅说明文件与发布包一致。</li><li>确认来源并决定继续时，可在 Edge 下载列表中打开该项的“…”菜单，选择“保留”；若还有确认页面，再选择“显示更多 → 仍然保留”（名称可能因版本不同）。</li><li>若提示明确检测到病毒或恶意软件，不要按普通信誉提示处理，请记录检测名称并反馈。</li></ol>
       <p>保留下载不会解除 Windows 的安装拦截。了解 <a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-security-smartscreen">微软 SmartScreen 下载检查</a>。</p>
     </details>
 
@@ -230,4 +230,4 @@ Windows 便携版解压即可使用；安卓在手机浏览器下载后打开 AP
 
 <sub>本仓库提供产品介绍、发布包和问题反馈，暂不包含应用源码。</sub>
 
-<!-- jmarkdown-readme:{"downloads":{"android":{"files":[{"name":"JMarkdownEditor-android-arm64-v8a-v0.31.2.apk","sha256":"09d7434a0adc34765890ce2a3f489e228dce95718b0bd187ae4e764064caa8b7","url":"https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.31.2/JMarkdownEditor-android-arm64-v8a-v0.31.2.apk"}],"version":"0.31.2"},"windows":{"files":[{"name":"JMarkdownEditor-Setup-windows-x64-native-v0.57.13.exe","sha256":"14994d919f7ca97e50023814d8f12a3021d368d0c7b6f13cf17f93aa7acfa725","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.13/JMarkdownEditor-Setup-windows-x64-native-v0.57.13.exe"},{"name":"JMarkdownEditor-windows-x64-native-v0.57.13.zip","sha256":"548e81c82845a35eec70aa0d9e42bcd7738d7fe7d167b30003267c7134d13ec9","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.13/JMarkdownEditor-windows-x64-native-v0.57.13.zip"}],"version":"0.57.13"}},"schema":1} -->
+<!-- jmarkdown-readme:{"downloads":{"android":{"files":[{"name":"JMarkdownEditor-android-arm64-v8a-v0.31.2.apk","sha256":"09d7434a0adc34765890ce2a3f489e228dce95718b0bd187ae4e764064caa8b7","url":"https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.31.2/JMarkdownEditor-android-arm64-v8a-v0.31.2.apk"}],"version":"0.31.2"},"windows":{"files":[{"name":"JMarkdownEditor-Setup-windows-x64-native-v0.57.15.exe","sha256":"b00605093fb68fb916bf933f79164b8592b4b790544af56aacbe2e5e6882d3d7","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.15/JMarkdownEditor-Setup-windows-x64-native-v0.57.15.exe"},{"name":"JMarkdownEditor-windows-x64-native-v0.57.15.zip","sha256":"9c880d0624a0dc0a20f590d866c470fb397adf455083d06784afd92ea6ce98cd","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.15/JMarkdownEditor-windows-x64-native-v0.57.15.zip"}],"version":"0.57.15"}},"schema":1} -->
