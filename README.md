@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/JMarkdownEditor-Setup-windows-x64-native-v0.57.16.exe"><strong>↓ 下载 Windows 版</strong></a>　·　
-  <a href="https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.1/JMarkdownEditor-android-arm64-v8a-v0.33.1.apk"><strong>↓ 下载 Android 版</strong></a>　·　
+  <a href="https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.3/JMarkdownEditor-android-arm64-v8a-v0.33.3.apk"><strong>↓ 下载 Android 版</strong></a>　·　
   <a href="#下载">所有下载</a>
 </p>
 
@@ -183,9 +183,9 @@
 | :--- | :--- | :--- |
 | Windows x64 · 安装版 | 0.57.16 | [下载 EXE ↓](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/JMarkdownEditor-Setup-windows-x64-native-v0.57.16.exe) |
 | Windows x64 · 便携版 | 0.57.16 | [下载 ZIP ↓](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/JMarkdownEditor-windows-x64-native-v0.57.16.zip) |
-| Android 8.0+ · arm64-v8a | 0.33.1 | [下载 APK ↓](https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.1/JMarkdownEditor-android-arm64-v8a-v0.33.1.apk) |
+| Android 8.0+ · arm64-v8a | 0.33.3 | [下载 APK ↓](https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.3/JMarkdownEditor-android-arm64-v8a-v0.33.3.apk) |
 
-[Windows SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/SHA256SUMS.txt)　·　[Android SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.1/SHA256SUMS.txt)　·　[全部版本与更新说明](https://github.com/starrynt/j-markdown-editor/releases)
+[Windows SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/SHA256SUMS.txt)　·　[Android SHA-256 校验清单](https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.3/SHA256SUMS.txt)　·　[全部版本与更新说明](https://github.com/starrynt/j-markdown-editor/releases)
 
 Windows 便携版解压即可使用；安卓在手机浏览器下载后打开 APK，按系统提示允许该浏览器安装应用。
 
@@ -230,4 +230,4 @@ Windows 便携版解压即可使用；安卓在手机浏览器下载后打开 AP
 
 <sub>本仓库提供产品介绍、发布包和问题反馈，暂不包含应用源码。</sub>
 
-<!-- jmarkdown-readme:{"downloads":{"android":{"files":[{"name":"JMarkdownEditor-android-arm64-v8a-v0.33.1.apk","sha256":"07276cf378298a3e358bb9662b494a859c52213c6759cba2f0a3bf9951334ffa","url":"https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.1/JMarkdownEditor-android-arm64-v8a-v0.33.1.apk"}],"version":"0.33.1"},"windows":{"files":[{"name":"JMarkdownEditor-Setup-windows-x64-native-v0.57.16.exe","sha256":"a9d42389dc966ec42ae899bd842dcab073054e14c080d462d04eb99e8d4b22a5","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/JMarkdownEditor-Setup-windows-x64-native-v0.57.16.exe"},{"name":"JMarkdownEditor-windows-x64-native-v0.57.16.zip","sha256":"394e1af7d375481a04e4d5bcaa7c72a17f888453c1b34fa7acbc1c88d1df43cf","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/JMarkdownEditor-windows-x64-native-v0.57.16.zip"}],"version":"0.57.16"}},"schema":1} -->
+<!-- jmarkdown-readme:{"downloads":{"android":{"files":[{"name":"JMarkdownEditor-android-arm64-v8a-v0.33.3.apk","sha256":"0d6bf489b7313d8d76ab1e546cfdb5ad29d49a89cdce253aebd01ae78709d49d","url":"https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.3/JMarkdownEditor-android-arm64-v8a-v0.33.3.apk"}],"version":"0.33.3"},"windows":{"files":[{"name":"JMarkdownEditor-Setup-windows-x64-native-v0.57.16.exe","sha256":"a9d42389dc966ec42ae899bd842dcab073054e14c080d462d04eb99e8d4b22a5","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/JMarkdownEditor-Setup-windows-x64-native-v0.57.16.exe"},{"name":"JMarkdownEditor-windows-x64-native-v0.57.16.zip","sha256":"394e1af7d375481a04e4d5bcaa7c72a17f888453c1b34fa7acbc1c88d1df43cf","url":"https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.16/JMarkdownEditor-windows-x64-native-v0.57.16.zip"}],"version":"0.57.16"}},"schema":1} -->
