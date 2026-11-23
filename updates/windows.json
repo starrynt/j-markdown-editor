@@ -1,15 +1,15 @@
 {
-  "version": "0.57.17",
+  "version": "0.57.18",
   "files": [
     {
-      "name": "JMarkdownEditor-Setup-windows-x64-native-v0.57.17.exe",
-      "sha256": "baf340ebccf14b0e95fd2184265f80dd3e1fbe5b4ed4881f811cf76802029d70",
-      "url": "https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.17/JMarkdownEditor-Setup-windows-x64-native-v0.57.17.exe"
+      "name": "JMarkdownEditor-Setup-windows-x64-native-v0.57.18.exe",
+      "sha256": "6d3ad359efe88ac6d1bb3d413e9be4edcba7b8a253659f14616f68e2d6cf6c5e",
+      "url": "https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.18/JMarkdownEditor-Setup-windows-x64-native-v0.57.18.exe"
     },
     {
-      "name": "JMarkdownEditor-windows-x64-native-v0.57.17.zip",
-      "sha256": "53de1f8abce763aa021bae00104beb1e83f06953b6ad663e74a0b574af68a7fb",
-      "url": "https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.17/JMarkdownEditor-windows-x64-native-v0.57.17.zip"
+      "name": "JMarkdownEditor-windows-x64-native-v0.57.18.zip",
+      "sha256": "b1662030350747c4bc6d848ae52ebfd523c46f2ffc6b6224c93d996f3a0289ce",
+      "url": "https://github.com/starrynt/j-markdown-editor/releases/download/v0.57.18/JMarkdownEditor-windows-x64-native-v0.57.18.zip"
     }
   ]
 }
