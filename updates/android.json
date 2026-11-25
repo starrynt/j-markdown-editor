@@ -1,11 +1,11 @@
 {
-  "version": "0.33.3",
+  "version": "0.33.4",
   "files": [
     {
-      "name": "JMarkdownEditor-android-arm64-v8a-v0.33.3.apk",
-      "sha256": "0d6bf489b7313d8d76ab1e546cfdb5ad29d49a89cdce253aebd01ae78709d49d",
-      "url": "https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.3/JMarkdownEditor-android-arm64-v8a-v0.33.3.apk"
+      "name": "JMarkdownEditor-android-arm64-v8a-v0.33.4.apk",
+      "sha256": "4bd1f6e0b6dab4a961f0877763d7bd35ae8aef5e9dfe3298c053669541748f0d",
+      "url": "https://github.com/starrynt/j-markdown-editor/releases/download/android-v0.33.4/JMarkdownEditor-android-arm64-v8a-v0.33.4.apk"
     }
   ],
-  "build": 88
+  "build": 89
 }
